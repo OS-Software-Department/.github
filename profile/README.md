@@ -1,12 +1,39 @@
 ## Программный отдел ОС (рабочее название)
 
-<!--
+В Объединении Студентов есть группа людей, которые заряжены проводить мероприятия на техническую тематику. Основная деятельность будет направленна на привлечение в ОС людей из технических специальностей ВУЗа (в основном мужского пола).
 
-**Here are some ideas to get you started:**
+## Пример мероприятий
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- киберспортивные турниры;
+- геймджемы;
+- спортивное программирование;
+- парное программирование;
+- технические хакатоны.
+
+## Основная деятельность
+
+- разработка технических решений для проведения мероприятий основным составом ОС;
+- хранение всех электронных материалов ОС.
+
+## Предложения участникам
+
+- возможность работать над реальными проектами;
+- поиск единомышленников;
+- развитие профессиональных навыков;
+- участие в командных соревнованиях;
+- возможность реализовать собственные технические идеи.
+
+## Пример названий
+
+- Технический отдел ОС
+- Программная лаборатория ОС
+- IT-ОС
+- ОС.Тех
+- ОС:
+- ТехноОСы
+- Ctrl+OS
+- DevOS
+
+## Социальные сети
+
+...
